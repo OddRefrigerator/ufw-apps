@@ -1,0 +1,4 @@
+[Readarr]
+title=Readarr
+description=Readarr is an ebook and audiobook collection manager 
+ports=8787/tcp

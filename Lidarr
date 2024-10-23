@@ -1,0 +1,4 @@
+[Lidarr]
+title=Lidarr
+description=Lidarr is a music collection manager
+ports=8686/tcp

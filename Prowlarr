@@ -1,0 +1,4 @@
+[Prowlarr]
+title=Prowlarr
+description=Prowlarr is an indexer manager and proxy app that integrates with PVR apps to manage torrent trackers and Usenet indexers
+ports=9696/tcp
