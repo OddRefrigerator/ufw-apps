@@ -1,0 +1,4 @@
+[Sonarr]
+title=Sonarr
+description=Sonarr is a free, open-source tool that automatically downloads tv episodes and tv series
+ports=7878/tcp

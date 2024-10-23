@@ -1,0 +1,4 @@
+[Jellyfin-https]
+title=Jellyfin-https
+description=Jellyfin is a free, open-source media server that allows users to organize, manage, and share digital media file
+ports=8920/tcp

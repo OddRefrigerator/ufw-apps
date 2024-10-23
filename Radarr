@@ -1,0 +1,4 @@
+[Radarr]
+title=Radarr
+description=Radarr is a free, open-source tool that automatically downloads movies and manages movie collections
+ports=8989/tcp
