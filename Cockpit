@@ -1,0 +1,4 @@
+[Cockpit]
+title=Cockpit
+description=Cockpit is a server administration tool sponsored by Red Hat
+ports=9090/tcp
