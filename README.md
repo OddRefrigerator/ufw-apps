@@ -7,9 +7,6 @@ Welcome to the UFW Apps repository! This project provides a collection of applic
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
